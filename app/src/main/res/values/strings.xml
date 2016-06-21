@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FBLA Outfit</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_feed">FeedActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noTweets">No Tweets</string>
+    <string name="com.appsee.apikey" translatable="false">0f9e005580784b6f973b3a769abefc1c</string>
+    <string name="com.gameanalytics.apiKey" translatable="false">188a6b7c937ed5f4f8e872ca401e150e</string>
+    <string name="com.gameanalytics.apiSecret" translatable="false">5f690643b2c3e221fc756913daffa38b3976dcae</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_activity_initial">InitialActivity</string>
+    <string name="login">LoginActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_user_feed">UserFeedActivity</string>
+</resources>
